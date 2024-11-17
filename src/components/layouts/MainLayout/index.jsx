@@ -1,5 +1,4 @@
 // src/components/layouts/MainLayout/index.jsx
-import React from 'react';
 import PropTypes from 'prop-types';
 import { Container, Typography } from '@mui/material';
 import Navigation from '../Navigation';

@@ -7,7 +7,7 @@ import { styled } from '@mui/material/styles';
 export const StyledButton = styled(MuiButton)(({ theme }) => ({
   // Custom styles here
   borderRadius: theme.shape.borderRadius,
-  textTransform: 'none', // Prevents automatic uppercase
-  padding: '8px 16px',
+  // textTransform: 'none', // Prevents automatic uppercase
+  // padding: '8px 16px',
   // You can add more custom styles
 }));

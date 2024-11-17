@@ -1,7 +1,7 @@
 // Enhanced Button component with loading state
 import CircularProgress from '@mui/material/CircularProgress';
 import PropTypes from 'prop-types';
-import { Button } from './index';
+import { Button } from '../Button/index';
 
 export const LoadingButton = ({ loading, children, ...props }) => {
   return (

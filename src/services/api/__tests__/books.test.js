@@ -1,6 +1,6 @@
 // src/services/api/__tests__/books.test.js
-import { booksApi } from '../books';
-import { ERROR_MESSAGES } from '@/utils/constants';
+// import { booksApi } from '../books';
+// import { ERROR_MESSAGES } from '@/utils/constants';
 import { describe, it, global, beforeEach, afterEach, jest } from '@jest/globals';
 
 describe('Books API', () => {
